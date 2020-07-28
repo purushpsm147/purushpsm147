@@ -1,3 +1,5 @@
+![My Custom Logo](https://ibb.co/hWkt4P1)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I'm Purushottam and I'm a Software Engineer. I enjoy digging into new technologies, Data Structures and Algorithms, Machine Learning, Dot Net C# and ..... many other stuffs.
+
+When I’m not coding, designing, or speaking about things, I’m binge watching 🎦 .
+- 📫 How to reach me: https://www.linkedin.com/in/purushottam-gupta-4a34bb111/
