@@ -1,4 +1,4 @@
-![My Custom Logo](https://ibb.co/hWkt4P1)
+![](https://i.ibb.co/58dfSNx/My-Post.jpg)
 
 ### Hi there 👋
 
